@@ -1,1 +1,1 @@
-# gaz-backend
+# gaz-backend backend for getaway.zone project
