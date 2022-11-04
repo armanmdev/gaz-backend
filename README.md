@@ -1,1 +1,4 @@
-gaz-backend backend for getaway.zone project
+# backend for getaway.zone project
+Node.JS based application
+
+
